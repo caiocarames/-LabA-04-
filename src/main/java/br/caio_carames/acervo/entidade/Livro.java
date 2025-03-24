@@ -1,3 +1,5 @@
+// Caio Caramés - 10308718
+
 package br.caio_carames.acervo.entidade;
 
 import jakarta.persistence.*;
