@@ -1,4 +1,4 @@
-/workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/AcervoApplication.java
-/workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/aplicacao/ConsoleApp.java
 /workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/entidade/Livro.java
+/workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/aplicacao/ConsoleApp.java
 /workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/repositorio/LivroRepository.java
+/workspaces/-LabA-04-/src/main/java/br/caio_carames/acervo/AcervoApplication.java
